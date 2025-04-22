@@ -1,0 +1,1 @@
+ini adalah catatan percobaan upload ke github via git bash
